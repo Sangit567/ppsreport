@@ -22,3 +22,10 @@ int main()
 puts("sangit");
 return 0;
 {
+
+#include<stdio.h>
+void main()
+{
+    puts("hello");
+    
+}
