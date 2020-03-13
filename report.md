@@ -1,4 +1,4 @@
-![photo] (https://www.gndec.ac.in/sites/default/logo.png)
+![photo](https://www.gndec.ac.in/sites/default/logo.png)
 # programming for problem solving(ESC-105)
 --------------------------
 Name-Sangit Kumar
