@@ -1,18 +1,20 @@
 ![photo](https://www.gndec.ac.in/sites/default/logo.png)
 # programming for problem solving(ESC-105)
 --------------------------
-Name-Sangit Kumar
+Submitted by:-Sangit Kumar
 
-Class Roll-1916067
+College Roll No:-1916067
 
-Univ Roll- 1905150
+University Roll No:- 1905150
 
-Branch-Electrical Engineering
+Branch:-Electrical Engineering
 
-Class-B
+Class:-B
+
+Batch:-2019-2023
 -----
 
-expriment1 : write a code to print your name
+expriment 1 :- write a code to print your name
 ```C
 #include<stdio.h>
 int main()
