@@ -18,5 +18,5 @@ expriment1 : write a code to print your name
 int main()
 {
 puts("sangit");
-}
 return 0;
+{
